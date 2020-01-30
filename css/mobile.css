@@ -151,3 +151,8 @@
 .footer-contact a {
   justify-self: center;
 }
+
+.footer p {
+  padding: 5% 0;
+  text-align: center;
+}
